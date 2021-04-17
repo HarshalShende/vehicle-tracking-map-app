@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A9:A7:7F:D6:46:AE:5B:73:0C:3F:9C:DE:29:C9:BE:57:C4:54:AB:F5%3Bcom.dipak.vehicletrackingapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.dipak.vehicletrackingapp
+
+    SHA-1 certificate fingerprint:
+    A9:A7:7F:D6:46:AE:5B:73:0C:3F:9C:DE:29:C9:BE:57:C4:54:AB:F5
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCDG25lr6cNRLMwRm1ejdXwK5xk_zytC5E</string>
+</resources>
